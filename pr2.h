@@ -6,4 +6,6 @@
 #include <string.h>
 #include <stdint.h>
 
+#include "test2.h"
+
 #endif
