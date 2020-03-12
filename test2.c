@@ -1,8 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdint.h>
 
+#include "pr2.h"
 //Tratamiento en bits del bitwise
 typedef struct Node
 {
